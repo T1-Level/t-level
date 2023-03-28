@@ -61,7 +61,7 @@ body {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-image: url('t-level/imgs/1.png');
+    background-image: url('/t-level/imgs/1.png');
     background-size: cover;
     background-position: center;
     border: 6px solid black;
